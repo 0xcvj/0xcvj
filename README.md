@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on  Kronloop — a Tauri desktop scheduler for Claude Code runs (v0.3.0 just shipped) — and inkLedger, a tattoo studio booking app with deposit handling.<br> I'm looking to collaborate  Open-source projects in the Python, TypeScript, React native & Tauri / Rust ecosystem<br>I'm currently learning    Python (working through Google's IT Automation with Python program) and deeper LLM integration patterns.<br> Ask me about      Building TypeScript/React native mobile apps, Tauri/Rust desktop apps, automating AI  or breaking out of IT into development. <br>My long-term plan involves a piece of land, family, and a cow somewhere in the Caribbean.
+I'm currently working on/ Ask me about Cybersecruity, Cloud & Building TypeScript/React native mobile apps, Tauri/Rust desktop apps, automating AI  or breaking out of IT into development. 
 
 
 ## Socials:
