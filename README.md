@@ -26,6 +26,4 @@ Just an IT Tech. Ask me about Cybersecurity, Cloud, automating with AI, or break
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://komarev.com/ghpvc/?username=0xcvj&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Profile views](https://komarev.com/ghpvc/?username=0xcvj&color=blue&style=flat)](https://github.com/0xcvj)
