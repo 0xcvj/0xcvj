@@ -1,5 +1,5 @@
 # About Me:
-Just an IT Tech. I'm currently working on/ Ask me about Cybersecurity, Cloud, automating AI  or breaking out of IT into development. Currently building TypeScript/React native mobile apps, Rust desktop apps.
+Just an IT Tech. Ask me about Cybersecurity, Cloud, automating with AI, or breaking out of IT into development. Currently building TypeScript/React Native mobile apps and Rust desktop apps.
 
 
 ## Socials:
